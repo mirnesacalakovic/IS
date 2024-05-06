@@ -1,0 +1,14 @@
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\bin\Debug\net8.0\MeteoroloskiSenzor_Fabrika.exe
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\bin\Debug\net8.0\MeteoroloskiSenzor_Fabrika.deps.json
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\bin\Debug\net8.0\MeteoroloskiSenzor_Fabrika.runtimeconfig.json
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\bin\Debug\net8.0\MeteoroloskiSenzor_Fabrika.dll
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\bin\Debug\net8.0\MeteoroloskiSenzor_Fabrika.pdb
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.AssemblyInfoInputs.cache
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.AssemblyInfo.cs
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.csproj.CoreCompileInputs.cache
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.dll
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\refint\MeteoroloskiSenzor_Fabrika.dll
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.pdb
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\MeteoroloskiSenzor_Fabrika.genruntimeconfig.cache
+C:\MyDocs\IS\PrviDomaci\MeteoroloskiSenzor_Fabrika\MeteoroloskiSenzor_Fabrika\obj\Debug\net8.0\ref\MeteoroloskiSenzor_Fabrika.dll
