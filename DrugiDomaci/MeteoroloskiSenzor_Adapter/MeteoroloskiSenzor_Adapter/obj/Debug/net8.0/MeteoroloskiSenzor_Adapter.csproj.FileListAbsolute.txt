@@ -1,0 +1,14 @@
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\bin\Debug\net8.0\MeteoroloskiSenzor_Adapter.exe
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\bin\Debug\net8.0\MeteoroloskiSenzor_Adapter.deps.json
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\bin\Debug\net8.0\MeteoroloskiSenzor_Adapter.runtimeconfig.json
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\bin\Debug\net8.0\MeteoroloskiSenzor_Adapter.dll
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\bin\Debug\net8.0\MeteoroloskiSenzor_Adapter.pdb
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.AssemblyInfoInputs.cache
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.AssemblyInfo.cs
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.csproj.CoreCompileInputs.cache
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.dll
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\refint\MeteoroloskiSenzor_Adapter.dll
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.pdb
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\MeteoroloskiSenzor_Adapter.genruntimeconfig.cache
+C:\Users\mirne\OneDrive\Radna površina\Backup\OOP2 sve\practice\OOP2\MeteoroloskiSenzor_Adapter\MeteoroloskiSenzor_Adapter\obj\Debug\net8.0\ref\MeteoroloskiSenzor_Adapter.dll

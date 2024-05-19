@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\backup\\oop2 sve\\practice\\oop2\\meteoroloskisenzor_adapter\\meteoroloskisenzor_adapter\\vlaznostsenzoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|solutionrelative:meteoroloskisenzor_adapter\\vlaznostsenzoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\backup\\oop2 sve\\practice\\oop2\\meteoroloskisenzor_adapter\\meteoroloskisenzor_adapter\\temperaturasenzoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|solutionrelative:meteoroloskisenzor_adapter\\temperaturasenzoradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\backup\\oop2 sve\\practice\\oop2\\meteoroloskisenzor_adapter\\meteoroloskisenzor_adapter\\vlaznostsenzor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|solutionrelative:meteoroloskisenzor_adapter\\vlaznostsenzor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|c:\\users\\mirne\\onedrive\\radna povr\u0161ina\\backup\\oop2 sve\\practice\\oop2\\meteoroloskisenzor_adapter\\meteoroloskisenzor_adapter\\temperaturasenzor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21D647C9-F9EF-4E2F-BF98-FCF700796869}|MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter.csproj|solutionrelative:meteoroloskisenzor_adapter\\temperaturasenzor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VlaznostSenzorAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\VlaznostSenzorAdapter.cs",
+              "RelativeDocumentMoniker": "MeteoroloskiSenzor_Adapter\\VlaznostSenzorAdapter.cs",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\VlaznostSenzorAdapter.cs",
+              "RelativeToolTip": "MeteoroloskiSenzor_Adapter\\VlaznostSenzorAdapter.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:32:03.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TemperaturaSenzorAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\TemperaturaSenzorAdapter.cs",
+              "RelativeDocumentMoniker": "MeteoroloskiSenzor_Adapter\\TemperaturaSenzorAdapter.cs",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\TemperaturaSenzorAdapter.cs",
+              "RelativeToolTip": "MeteoroloskiSenzor_Adapter\\TemperaturaSenzorAdapter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:32:22.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VlaznostSenzor.cs",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\VlaznostSenzor.cs",
+              "RelativeDocumentMoniker": "MeteoroloskiSenzor_Adapter\\VlaznostSenzor.cs",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\VlaznostSenzor.cs",
+              "RelativeToolTip": "MeteoroloskiSenzor_Adapter\\VlaznostSenzor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:31:20.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TemperaturaSenzor.cs",
+              "DocumentMoniker": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\TemperaturaSenzor.cs",
+              "RelativeDocumentMoniker": "MeteoroloskiSenzor_Adapter\\TemperaturaSenzor.cs",
+              "ToolTip": "C:\\Users\\mirne\\OneDrive\\Radna povr\u0161ina\\Backup\\OOP2 sve\\practice\\OOP2\\MeteoroloskiSenzor_Adapter\\MeteoroloskiSenzor_Adapter\\TemperaturaSenzor.cs",
+              "RelativeToolTip": "MeteoroloskiSenzor_Adapter\\TemperaturaSenzor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:24:10.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
